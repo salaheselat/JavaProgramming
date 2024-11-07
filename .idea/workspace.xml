@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d43c930-a5d4-4609-857d-4e5fce109190" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nSvq9XgjI4mvOgYSr5RuyGP1gE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddingNumbers.executor": "Run",
+    "Application.Bike.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CompoundCalculator.executor": "Run",
+    "Application.Exercise1.executor": "Run",
+    "Application.Exercise2Ses4.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MathQuizGame.executor": "Run",
+    "Application.Methods.executor": "Run",
+    "Application.NuclearReactor.executor": "Run",
+    "Application.Numbers.executor": "Run",
+    "Application.OrderNumbers.executor": "Run",
+    "Application.Password.executor": "Run",
+    "Application.RectangleArea.executor": "Run",
+    "Application.Speed.executor": "Run",
+    "Application.TimesTable.executor": "Run",
+    "Application.books.executor": "Run",
+    "Application.excercise4.executor": "Run",
+    "Application.excercise6.executor": "Run",
+    "Application.exercise10.executor": "Run",
+    "Application.exercise2.executor": "Run",
+    "Application.exercise2p1.executor": "Run",
+    "Application.exercise3.executor": "Run",
+    "Application.exercise3p2.executor": "Run",
+    "Application.exercise3se4.executor": "Run",
+    "Application.exercise4.executor": "Run",
+    "Application.exercise5.executor": "Run",
+    "Application.exercise77.executor": "Run",
+    "Application.exercise88.executor": "Run",
+    "Application.exercise9b.executor": "Run",
+    "Application.exerciseEight.executor": "Run",
+    "Application.exerciseSeven.executor": "Run",
+    "Application.session4ex8.executor": "Run",
+    "Application.temperature.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/salahmohamed/Documents/javaProgramming/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="javaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Methods" />
+      <module name="javaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3.Password" />
+      <module name="javaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.Password" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d43c930-a5d4-4609-857d-4e5fce109190" name="Changes" comment="" />
+      <created>1728979482164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728979482164</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
