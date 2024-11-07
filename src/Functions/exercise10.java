@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class exercise10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        // Update this to latest version functions
+        // Update this to latest version functions !
         displayMenu();
     }
 
